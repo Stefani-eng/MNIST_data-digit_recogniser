@@ -1,5 +1,5 @@
 # MNIST_data-digit_recogniser
-This is my improved version of the original Digit Recognizer kernel from https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6/notebook
+This is my improved version (LS) of the original Digit Recognizer kernel from https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6/notebook
 
 I changed:
 * the kernerl sizes (3x3) instead of (5x5) and
